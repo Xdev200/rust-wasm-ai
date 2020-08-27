@@ -1,0 +1,23 @@
+{
+  "name": "rust-wasm-ai-demo",
+  "version": "1.0.0",
+  "description": "[中文](README-ZH.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/second-state/rust-wasm-ai-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/second-state/rust-wasm-ai-demo/issues"
+  },
+  "homepage": "https://github.com/second-state/rust-wasm-ai-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.9"
+  }
+}
